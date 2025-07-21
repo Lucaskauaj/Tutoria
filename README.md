@@ -1,4 +1,4 @@
-API RESTful com Segurança JWT
+### API RESTful com Segurança JWT
 
 Essa aplicação é uma API RESTful feita em **Python/Flask** que implementa um sistema de autenticação e autorização baseado em **JSON Web Tokens (JWT)**. O objetivo é proteger os recursos da API garantindo que apenas usuários autenticados e autorizados acessem determinadas rotas.
 

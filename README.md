@@ -55,7 +55,3 @@ Essa aplicação é uma API RESTful feita em **Python/Flask** que implementa um 
 * Tokens JWT possuem expiração para evitar uso indevido.
 * Refresh Tokens são guardados no banco e validados.
 * Controle de acesso baseado no campo `role` do usuário.
-
----
-
-É isso. Quer que eu escreva um README completo com instruções de instalação e uso?

@@ -1,0 +1,15 @@
+{
+  "name": "simples-vue-crud",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "json-server": "json-server --watch db.json --port 3000"
+  },
+  "dependencies": {
+    "vue": "^3.3.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "json-server": "^0.17.0"
+  }
+}

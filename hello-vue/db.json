@@ -1,0 +1,11 @@
+{
+  "mensagens": [
+    {
+      "id": "1",
+      "titulo": "Bem-vindo à API local",
+      "conteudo": "Este é um exemplo de mensagem inicial.",
+      "autor": "Sistema",
+      "data_criacao": "2025-10-29T12:00:00Z"
+    }
+  ]
+}
